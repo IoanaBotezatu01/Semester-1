@@ -3,6 +3,6 @@
  [1. Fundamental of Programming 🚀]()
 
 
-2. Computer Systems Architecture 💻
+[2. Computer Systems Architecture 💻]
 
 
